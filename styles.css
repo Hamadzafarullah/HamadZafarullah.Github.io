@@ -1,3 +1,16 @@
+li{
+    display:inline;
+    margin: 20px;
+    font-size: 20px;
+    
+}
+.Top{   
+    display:flex;
+    justify-content:space-between;
+    
+}
+
+
 h1 {
     text-align: center;
     
